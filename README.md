@@ -27,7 +27,7 @@
 - 📫 **Contact Me:**  
   - ✉️ [omarhamdy2035@gmail.com](mailto:omarhamdy2035@gmail.com)  
   - 📞 [+20 111 893 8276](tel:+201118938276)  
-- 📍 **Location:** Aswan, Egypt  
+- 📍 **Location:** Cairo, Egypt  
 
 ---
 
