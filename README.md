@@ -58,54 +58,7 @@
 
 </p>
 
----
 
-## 🎓 Education  
-🎓 **Bachelor of Science in Agricultural Science** *(In Progress)*  
-**Aswan University** (Oct 2021 – July 2025) | Aswan, Egypt  
-
----
-
-## 💻 Work Experience  
-### **Business Intelligence & Data Analysis Intern**  
-📍 **LINK Program by E-Youth** *(Feb 2025 – Present | Remote)*  
-- Developed **data-driven decision-making** skills using **Excel, Power BI, and SQL**.  
-- Created **interactive dashboards** to provide **business insights**.  
-- Gained expertise in **resume writing and LinkedIn branding**.  
-
-### **Data Analysis Intern**  
-📍 **Digital Egypt Pioneers Initiative** *(Oct 2024 – Present | Remote)*  
-- Performed **data cleaning, analysis, and visualization** using Power BI, Tableau, and Python.  
-- Delivered a **capstone project** analyzing real-world data and presenting insights to stakeholders.  
-- Applied **data governance** principles to ensure **data integrity**.  
-
----
-
-## 📊 Projects  
-### **Superstore Sales Analysis**  
-- Cleaned and processed data using **Pandas**, creating a **star schema** for analysis.  
-- Developed an **interactive Tableau dashboard** to visualize **sales performance and customer trends**.  
-- Provided **business insights** on **top-selling products and regional growth opportunities**.  
-
-### **Road Accident Analysis**  
-- Built an **Excel dashboard** to analyze **accident frequency, causes, and high-risk locations**.  
-- Applied **data visualization techniques** to highlight **patterns and trends**.  
-- Contributed to **policy recommendations** for improving **road safety**.  
-
----
-
-## 🏆 Certifications  
-✅ **Data Analysis Using Power BI** - E-Youth  
-✅ **Analyzing Data in Tableau** - DataCamp  
-✅ **Database Design** - E-Youth  
-✅ **Python for Data Analysis** - MaharaTech (ITI)  
-✅ **SQL Fundamentals** - DataCamp  
-
----
-
-## 🌐 Languages  
-- **Arabic:** Native  
-- **English:** Intermediate  
 
 ---
 
