@@ -2,8 +2,8 @@
   <img src="https://cdn.dribbble.com/userupload/28009276/file/original-7f5e42b060e1417584d3faddeb969963.gif" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Omar Hamdy Mohamed</h1>
-<h3 align="center">Entry-Level Data Analyst | Passionate About Transforming Data into Actionable Insights</h3>
+<h1 align="center">Hi 👋, I'm Omar Hamdy</h1>
+<h3 align="center">Data Analyst | Passionate About Transforming Data into Actionable Insights</h3>
 
 <p align="center">
   I’m an aspiring data analyst with hands-on experience in Business Intelligence and Data Analytics. 
